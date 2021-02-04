@@ -1,0 +1,11 @@
+// let a = 5;
+// let b = 7;
+// console.log("befor swap:a =",a, "b =",b);
+// let temp=a;
+// a=b;
+// b=temp;
+// console.log("after swap:a =",a, "b =",b);
+var p=4;
+var q= 9;
+[p,q]=[q,p];
+console.log("after swap p=",p,"q=",q);
